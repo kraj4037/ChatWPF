@@ -1,0 +1,17 @@
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\bin\Debug\FirstWPF.exe.config
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\bin\Debug\FirstWPF.exe
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\bin\Debug\FirstWPF.pdb
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.csprojResolveAssemblyReference.cache
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\MainWindow.g.cs
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\App.g.cs
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF_MarkupCompile.cache
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF_MarkupCompile.lref
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\MainWindow.baml
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.g.resources
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.Properties.Resources.resources
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.csproj.GenerateResource.cache
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.csproj.CoreCompileInputs.cache
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.exe
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.pdb
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kraj4\OneDrive\Documents\Visual Studio 2017\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.csproj.CopyComplete
